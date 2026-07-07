@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**moais21/moais21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Аделина Талипова**, я начинающий **системный аналитик**.
 
-Here are some ideas to get you started:
+## 🎯 Обо мне
+-  Выпускница УлГУ по специальности "МО и АИС"
+- 💼 3 года опыта работы с бизнес-процессами и стейкхолдерами
+-  Владею SQL, UML, BPMN, основами REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Мои проекты
+- [Моделирование бизнес-процессов туристического агентства](https://github.com/moais21/portfolio/blob/main/business-process-tourism.png)
+- [Постановка требований на систему учёта фотостудии](https://github.com/moais21/portfolio/blob/main/api-documentation.md)
+- [SQL-запросы для анализа данных](https://github.com/moais21/portfolio/blob/main/queries.sql)
+
+## 📄 Резюме
+- [Скачать PDF](https://raw.githubusercontent.com/moais21/portfolio/main/CV_Talipova_SystemAnalyst.pdf)
+
+## 📬 Контакты
+- 📧 adelina_talipova1@bk.ru
+- 📱 +7 (960) 035-35-21
